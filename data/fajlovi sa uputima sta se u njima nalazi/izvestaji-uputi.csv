@@ -1,0 +1,1 @@
+datumIzdavanja|isOveren|nazivBolnice|korisnickoImePacijenta|korisnickoImeDoktora|nizDijagnoza zapisani kao (nazivDijagnoze*sifraDijagnoze*(nizLekova za datu dijagnozu zapisani kao (nazivLeka+isUvozni))*sledecaDijagnoza)|nizRecepata zapisani kao (isOveren*(nizLekova za datu dijagnozu zapisani kao (nazivLeka+isUvozni))*sledeciRecept)
